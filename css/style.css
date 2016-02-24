@@ -1,0 +1,30 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+.compare{
+	text-align: center;
+}
+.submit{
+	position: relative;
+	top: 10px;
+}
+.show {
+	width: 60%;
+	margin: auto;
+}
+.entry{
+	text-align: center;
+}
+.caption{
+	font-size: 80%;
+}
+* {
+	margin: 0;
+}
+html, body {
+	height: 100%;
+}
+.footer{
+	padding-top: 25px;
+	text-align: center;
+}
